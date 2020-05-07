@@ -1,0 +1,46 @@
+.top{
+	height:80px;
+	width:100%;
+	background-color:#d3d3d350;
+	padding:10px;
+}
+.pad{
+	font-size:20px;
+	font-family: algerian;
+	color:black;
+	
+   
+}
+.tittle{
+	color:red;
+	font-family:
+	font-weight:bold;
+    font-size:24px;
+    text-align: left;
+    display:inline;
+}
+button{
+	width:70px;
+	height:40px;
+	font-family: algerian;
+	border:0px;
+	background-color:#d3d3d3;
+	border-radius: 6px;
+	font-size:18px;
+	float:right;
+
+    }
+button:hover{
+	background-color: white;
+	color:blue;
+	border:1px solid black;
+	border-color:black;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+.img{
+	height:400px;
+	width:70%;
+	background-color: #dedede99;
+
+}
+</style>
